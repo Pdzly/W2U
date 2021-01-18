@@ -1,0 +1,4 @@
+C:\Users\Philipp\source\repos\W2U\W2U\obj\Release\netstandard2.1\W2U.csprojAssemblyReference.cache
+C:\Users\Philipp\source\repos\W2U\W2U\obj\Release\netstandard2.1\W2U.AssemblyInfoInputs.cache
+C:\Users\Philipp\source\repos\W2U\W2U\obj\Release\netstandard2.1\W2U.AssemblyInfo.cs
+C:\Users\Philipp\source\repos\W2U\W2U\obj\Release\netstandard2.1\W2U.csproj.CoreCompileInputs.cache

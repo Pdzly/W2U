@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>W2U</id>
+    <version>1.0.1</version>
+    <authors>Rook aka Pdzly</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A (very smoll) Watch2Gether Library in C#</description>
+    <releaseNotes>Initial Version</releaseNotes>
+    <copyright>@Watch2Gether</copyright>
+    <tags>Watch2Gether</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.Caching" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Philipp\source\repos\W2U\W2U\bin\Debug\netstandard2.1\W2U.dll" target="lib\netstandard2.1\W2U.dll" />
+  </files>
+</package>
