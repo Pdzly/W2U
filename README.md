@@ -1,7 +1,7 @@
 # W2U
 Watch2Gether API for C#
 
-#How to...
+# How to...
 Its easy just initialize with Watch2Gether (nameofvarhere) = new Watch2Gether(...);
 and afterwards
 => (nameofvarhere).data.streamkey => your streamkey
